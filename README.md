@@ -2,7 +2,7 @@
 
 This is a small press fit kit designed to be cut in cardboard.
 
-The main parameters are controlled in hex.ipt. You can set parameters such as the size of the parts, the slot depth and the kerf of the laser. The versions her is for a laser kerf of about 0.15mm and to be cut in cardboard 2.5mm thick.
+The main parameters are controlled in hex.ipt. You can set parameters such as the size of the parts, the slot depth and the kerf of the laser. The version here is for a laser kerf of about 0.15mm and to be cut in cardboard 2.5mm thick.
 
 You can make some pretty cool shapes.
 
